@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Flags Live Time</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="stars"></div>
+    <div class="twinkling"></div>
+    
+    <header>
+        <h1>World Flags <span>&</span> Times</h1>
+        <p>Live local times for countries around the world</p>
+        <div class="earth-container">
+            <div class="earth"></div>
+        </div>
+    </header>
+
+    <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Search for a country...">
+        <i class="fas fa-search"></i>
+    </div>
+
+    <div class="controls">
+        <button id="viewToggle">Grid View</button>
+        <button id="sizeToggle">Compact Size</button>
+    </div>
+
+    <main id="flagsContainer"></main>
+
+    <footer>
+        <p>Data updates in real-time | © <span id="currentYear"></span> World Time Flags</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
