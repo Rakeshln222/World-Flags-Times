@@ -63,7 +63,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - your.rakeshlm0000@gmail.com
+Rakesh L N
 
 Project Link:https://github.com/Rakeshln222/World-Flags-Times
 
@@ -73,6 +73,3 @@ Project Link:https://github.com/Rakeshln222/World-Flags-Times
 - Inspiration from various world clock applications
 - CSS animation techniques from online resources
 
----
-
-*Replace placeholder values (like screenshot, contact info, GitHub links) with your actual project information.*
